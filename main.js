@@ -1,3 +1,58 @@
+// EDIT LIST HERE
+
+let list = [
+  "First text",
+  "Random yikes",
+  "Redditor",
+  "That's me",
+  "Hello there"
+];
+
+// EDIT LIST HERE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 "use strict";
 
 const btn = document.querySelector("button"),
@@ -6,21 +61,13 @@ const btn = document.querySelector("button"),
 
 let oldRandomNum = 0,
   oldRandomPink = 0,
-  list = [
-  "First text",
-  "Random yikes",
-  "Redditor",
-  "That's me",
-  "Hello there"
-];
-
-let pinks = [
+  pinks = [
   "bg-pink-400",
   "bg-pink-500",
   "bg-pink-600",
   "bg-pink-700",
   "bg-pink-800"
-]
+];
 
 btn.addEventListener("click", change);
 
