@@ -1,11 +1,12 @@
 // EDIT LIST HERE
 
 let list = [
-  "First text",
-  "Random yikes",
-  "Redditor",
-  "That's me",
-  "Hello there"
+  "Touch your tip over the clothes",
+  "Push your cock down against an erection on video",
+  "Play with your balls",
+  "Send a nice dick picture",
+  "Press your cock against something on video",
+  "Wiggle and move your cock a little, send a video"
 ];
 
 // EDIT LIST HERE
